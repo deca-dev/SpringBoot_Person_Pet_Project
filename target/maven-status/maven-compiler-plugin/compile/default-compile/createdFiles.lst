@@ -1,0 +1,6 @@
+com/todocodeacademy/pruebaJPA/repository/IPersonaRepository.class
+com/todocodeacademy/pruebaJPA/controller/PersonaController.class
+com/todocodeacademy/pruebaJPA/service/IPersonaService.class
+com/todocodeacademy/pruebaJPA/service/PersonaService.class
+com/todocodeacademy/pruebaJPA/model/Persona.class
+com/todocodeacademy/pruebaJPA/PruebaJpaApplication.class
